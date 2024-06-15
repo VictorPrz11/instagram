@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PlaywriteSK-ExtraLight.ttf",
+      "sha1": "287f685d3730a468164f14bc66024573510442a8"
+    },
+    {
+      "path": "assets/fonts/PlaywriteSK-Light.ttf",
+      "sha1": "c2a3760c664fe237c17212816a7a8af8905e748e"
+    },
+    {
+      "path": "assets/fonts/PlaywriteSK-Regular.ttf",
+      "sha1": "c024f46cf4ab755aabaee2e8ddca8ac5132d82a3"
+    },
+    {
+      "path": "assets/fonts/PlaywriteSK-Thin.ttf",
+      "sha1": "9bb8a88af36d14c92143387b2916826fc60d85d8"
+    },
+    {
+      "path": "assets/fonts/PlaywriteVN-ExtraLight.ttf",
+      "sha1": "7683a4749d16a29186ac29d0247e6e6700c9a11f"
+    },
+    {
+      "path": "assets/fonts/PlaywriteVN-Light.ttf",
+      "sha1": "78b744c6b0c858a098b2511ef75302f0763dc79f"
+    },
+    {
+      "path": "assets/fonts/PlaywriteVN-Regular.ttf",
+      "sha1": "b50c332c8045b2875aabe48bcdb3f09e5f69ff0f"
+    },
+    {
+      "path": "assets/fonts/PlaywriteVN-Thin.ttf",
+      "sha1": "16a59965b79a130465ada62cafd284510752c577"
+    }
+  ]
+}
